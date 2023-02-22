@@ -2,7 +2,8 @@
 
 /**
  * main - Print _putchar
- * Return: Always 0
+ * is written by chenebuah
+ * Return: 0
  */
 int main(void)
 {
